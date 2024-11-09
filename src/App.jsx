@@ -15,7 +15,7 @@ import DeleteJob from "./pages/DeleteJob";
 import EditJob from "./pages/EditJob";
 
 const App = () => {
-  document.title = "myFirstReactApp";
+  document.title = "Diamond jobs";
 
   const router = createBrowserRouter(
     createRoutesFromElements(
